@@ -4,8 +4,8 @@
     <div class="max-w-7xl mx-auto py-3 px-3 sm:px-6 lg:px-8">
       <div class="pr-16 sm:text-center sm:px-16">
         <p class="font-medium text-white">
-          <!-- Mobile --> <span class="md:hidden"> We offer COVID vaccinations including Pfizer, AstraZeneca, and children's vaccinations. </span>
-          <!-- Desktop --> <span class="hidden md:inline"> We offer COVID vaccinations including Pfizer, AstraZeneca, and children's vaccinations.</span>
+          <!-- Mobile --> <span class="md:hidden"> We offer COVID vaccinations and children's vaccinations. </span>
+          <!-- Desktop --> <span class="hidden md:inline"> We offer COVID vaccinations and children's vaccinations.</span>
           <span class="block sm:ml-2 sm:inline-block">
           </span>
         </p>

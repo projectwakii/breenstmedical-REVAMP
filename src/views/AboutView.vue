@@ -96,15 +96,6 @@ const people = [
     twitterUrl: '#',
     linkedinUrl: '#',
   },
-      {
-    name: 'Dr Bessie George',
-    role: 'General Practitioner (GP)',
-    imageUrl:
-      '/img/drbessie.jpg',
-    bio:'Dr.Bessie George is a fellow of the RACGP and has been working In Australia since 2009. After completing her MBBS in 1997, she gained valuable experience in various fields of Medicine before choosing general practice as her vocation of choice. She has established herself as a competent, caring GP and after a 2 year stint in Melbourne has returned to Bendigo permanently. Special interests: Women’s health, Antenatal care, Contraception, Children’s health, Men’s health, Chronic Disease, Mental Health, Minor skin procedures,Implanon, Preventative Health',
-    twitterUrl: '#',
-    linkedinUrl: '#',
-  },
   // More people...
 ]
 
