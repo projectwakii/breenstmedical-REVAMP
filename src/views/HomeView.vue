@@ -4,7 +4,7 @@ import { MailIcon } from '@heroicons/vue/solid'
 
 function email() {
   // this is associated with a button at the bottom where users can send an email
-  window.location.href = "mailto:wliu@vic.chariot.net.au"
+  window.location.href = "mailto:breenstmedical@gmail.com"
 }
 
 </script>
