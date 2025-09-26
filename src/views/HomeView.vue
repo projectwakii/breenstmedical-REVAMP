@@ -22,7 +22,7 @@ const people = [
   },
   {
     name: 'Book An Appointment',
-    role: 'We are open from Monday to Friday 9:00am - 5:00pm. Call 5444 0689 to book an appointment.',
+    role: 'We are open from Monday to Friday 9:00am - 5:00pm. Call 5444 0689 to book an appointment. Please note that if an appointment is not attended without 4 hours prior notice to doctors, a non-attendance fee may be incurred.',
     imageUrl:
       '/img/appointment.jpg',
     twitterUrl: '#',

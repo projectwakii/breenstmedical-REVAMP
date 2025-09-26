@@ -73,7 +73,7 @@ const people = [
     role: 'General Practitioner (GP)',
     imageUrl:
       '/img/drrosamund.jpg',
-    bio: 'Rosamund is a female GP who is passionate about saving lives through finding and treating skin cancer. As a mother, she likes children. Also, she was a geriatrics and rehabilitation Doctor for ten years so is good with care of the older person and complex medicine. Rosamund is an accredited Skin Cancer Doctor with The Skin Cancer College of Australasia (MBBS, FRACGP, DRANZCOG, Adv cert in skin cancer surgery).',
+    bio: 'Rosamund Stobie is a female General Practitioner. She graduated from Monash University, and is a fellow of the RACGP and Skin cancer College Australasia. She has completed her Diploma of Obstetrics and Gynaecology.\nShe is caring, competent and thorough.\nSpecial interests- Women\'s Health, Skin Cancer,Antenatal , Contraception and Implanon, Children\'s Health, Men\'s Health, Chronic Disease, Preventative Health, Mental Health',
     twitterUrl: '#',
     linkedinUrl: '#',
   },
@@ -93,6 +93,15 @@ const people = [
     imageUrl:
       '/img/drmina.jpg',
     bio: 'I am a caring and compassionate doctor who takes pride in being a good listener and trying to share as much medical information as practical to my patients, giving them the opportunity to take part in their treatment.',
+    twitterUrl: '#',
+    linkedinUrl: '#',
+  },
+  {
+    name: 'Dr Muhammad Ilyas Shazi',
+    role: 'General Practitioner (GP)',
+    imageUrl:
+      '/img/drshazi.jpg',
+    bio: 'Dr Shazi is an experienced GP with over 22 years of international practice, including 8 years in Pakistan and 14 years in Saudi Arabia. He holds MRCGP INT (UK) and MCPS (Family Medicine) qualifications. His special interests include chronic disease management, geriatrics, mental health, and paediatrics, with a keen interest in exploring all areas of general practice.\n\nDr Shazi is fluent in multiple languages including English, Urdu, Hindi, Punjabi and Arabic(Saudi).',
     twitterUrl: '#',
     linkedinUrl: '#',
   },
