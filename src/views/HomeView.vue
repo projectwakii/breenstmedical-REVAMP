@@ -14,7 +14,7 @@ function email() {
 const people = [
   {
     name: 'Your trusted local doctors.',
-    role: 'Breen St Medical Clinic is a fully accredited medical practice, emphasizing the best care for our patients. Our General Practitioners (GP) and healthcare staff provide high quality patient-centered care for the Bendigo and Quarry Hill region.',
+    role: 'Breen St Medical Practice is a fully accredited medical practice, emphasizing the best care for our patients. Our General Practitioners (GP) and healthcare staff provide high quality patient-centered care for the Bendigo and Quarry Hill region.',
     imageUrl:
       '/img/about2.jpg',
     twitterUrl: '#',
@@ -22,7 +22,7 @@ const people = [
   },
   {
     name: 'Book An Appointment',
-    role: 'We are open from Monday to Friday 9:00am - 5:00pm. Call 5444 0689 to book an appointment. Please note that if an appointment is not attended without 4 hours prior notice to doctors, a non-attendance fee may be incurred.',
+    role: 'We are open from Monday to Friday 9:00am - 5:00pm. Call 5444 0689 to book an appointment. Please note that if an appointment is not attended without prior notice to doctors, a non-attendance fee may be incurred.',
     imageUrl:
       '/img/appointment.jpg',
     twitterUrl: '#',
@@ -30,7 +30,7 @@ const people = [
   },
   {
     name: 'Our Services',
-    role: 'We are currently offering the AstraZeneca and Pfizer vaccines. Our practice has many services to offer, including: general medical care, skin cancer checks, BP monitoring, glucose testing, antenatal/postnatal care, immunisations, and more.',
+    role: 'We are currently offering COVID vaccines. Our practice has many services to offer, including: general medical care, skin cancer checks, BP monitoring, glucose testing, antenatal/postnatal care, immunisations, and more.',
     imageUrl:
       '/img/vaccination.jpg',
     twitterUrl: '#',
@@ -55,7 +55,7 @@ export default {
       <div class="mx-auto max-w-7xl w-full pt-16 pb-20 text-center lg:py-48 lg:text-left">
         <div class="px-4 lg:w-1/2 sm:px-8 xl:pr-16">
           <h1 class="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl lg:text-5xl xl:text-6xl">
-            <span class="block xl:inline">Breen Street Medical Clinic</span>
+            <span class="block xl:inline">Breen St Medical Practice</span>
             {{ ' ' }}
             <span class="block text-indigo-600 xl:inline"><br>Experienced doctors providing comprehensive healthcare to Bendigo since 2008.</span>
           </h1>
@@ -120,7 +120,7 @@ export default {
           <h3 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Work With Us</h3>
           <p class="mt-8 text-lg text-gray-500">Interested in working with us?</p>
           <div class="mt-5 prose prose-indigo text-gray-500">
-            <p>We are looking for General Practitioners and Allied Health staff. We encourage enthusiastic doctors, both junior and senior, to apply for a position at Breen Street Medical Clinic. Contact us below for more details.</p>
+            <p>We are looking for General Practitioners and Allied Health staff. We encourage enthusiastic doctors, both junior and senior, to apply for a position at Breen St Medical Practice. Contact us below for more details.</p>
             <br>
             <button @click="email" type="button" class="inline-flex items-center px-6 py-3 border border-transparent shadow-sm text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
             <MailIcon class="-ml-1 mr-3 h-5 w-5" aria-hidden="true" />

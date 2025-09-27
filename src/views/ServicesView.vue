@@ -46,7 +46,6 @@ const features = [
   { name: 'Holter monitoring', description: '' },
   { name: 'Blood glucose testing', description: '' },
   { name: 'Home visits', description: '' },
-  { name: 'Residential Aged Care Facility visits', description: '' },
   { name: 'Antenatal and postnatal care', description: '' },
   { name: 'Immunisations', description: 'Including for COVID, pneumococcal, influenza, shingles, pertussis, and more.' },
   { name: 'Travel medicine ', description: '' },
