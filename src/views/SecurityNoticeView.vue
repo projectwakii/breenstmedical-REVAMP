@@ -50,8 +50,8 @@
             </h2>
             <p class="mt-2">
               Our email account
-              <strong>breenstmedical@gmail.com is no longer in use</strong>
-              and has been permanently disabled. Please
+              <strong>breenstmedical@gmail.com is temporarily suspended</strong>.
+              Please
               <strong>do not send any emails</strong> to this address — we will
               not receive them. Any reply you may receive from this address is
               <strong>not</strong> from our practice.
