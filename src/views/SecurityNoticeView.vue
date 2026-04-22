@@ -44,8 +44,30 @@
             This email did NOT come from our practice.
           </p>
 
+          <div class="rounded-lg border-l-4 border-red-600 bg-red-50 px-5 py-4">
+            <h2 class="text-lg font-bold text-gray-900">
+              Important update regarding our email address:
+            </h2>
+            <p class="mt-2">
+              Our email account
+              <strong>breenstmedical@gmail.com is no longer in use</strong>
+              and has been permanently disabled. Please
+              <strong>do not send any emails</strong> to this address — we will
+              not receive them. Any reply you may receive from this address is
+              <strong>not</strong> from our practice.
+            </p>
+            <p class="mt-3">
+              For all communication, please
+              <strong>call the clinic directly on (03) 5444 0689</strong>. We
+              will advise patients of a new email address once it has been
+              established and verified.
+            </p>
+          </div>
+
           <div>
-            <h2 class="text-lg font-bold text-gray-900">If you received this email:</h2>
+            <h2 class="text-lg font-bold text-gray-900">
+              If you received the suspicious email:
+            </h2>
             <ul class="mt-3 list-disc space-y-2 pl-6 marker:text-red-700">
               <li><strong>Delete it immediately</strong></li>
               <li><strong>Do NOT click any links</strong> in the email</li>
@@ -55,6 +77,7 @@
                 it links to
               </li>
               <li><strong>Do NOT install any software</strong> it prompts you to</li>
+              <li><strong>Do NOT reply</strong> to the email</li>
             </ul>
           </div>
 
@@ -84,6 +107,10 @@
               <li>
                 <strong>Monitor your accounts</strong> for any unusual activity over
                 the coming weeks
+              </li>
+              <li>
+                <strong>Call us on (03) 5444 0689</strong> so we can assist and
+                keep a record
               </li>
             </ol>
           </div>
