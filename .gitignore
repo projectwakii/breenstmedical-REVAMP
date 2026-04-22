@@ -9,10 +9,10 @@ lerna-debug.log*
 sshKey.pub
 sshKey
 
-node_modules
-.DS_Store
-dist-ssr
-coverage
+node_modules/
+dist/
+dist-ssr/
+coverage/
 *.local
 
 /cypress/videos/
@@ -27,7 +27,4 @@ coverage
 *.njsproj
 *.sln
 *.sw?
-.DS_Store
-.DS_Store
-.DS_Store
 .DS_Store
