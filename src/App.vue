@@ -38,6 +38,7 @@ import JobsView from '@/views/JobsView.vue'
             <RouterLink to="/about" class="text-base font-medium text-gray-500 hover:text-gray-900"> Our Team </RouterLink>
             <RouterLink to="/services" class="text-base font-medium text-gray-500 hover:text-gray-900"> Services </RouterLink>
             <RouterLink to="/Jobs" class="text-base font-medium text-gray-500 hover:text-gray-900"> Jobs </RouterLink>
+            <RouterLink to="/privacy-policy" class="text-base font-medium text-gray-500 hover:text-gray-900"> Privacy policy </RouterLink>
 
 
           </PopoverGroup>
@@ -139,6 +140,12 @@ const features = [
     href: '/jobs',
     description: 'Jobs.',
     icon: BriefcaseIcon,
+  },
+  {
+    name: 'Privacy policy',
+    href: '/privacy-policy',
+    description: 'How we use your contact details.',
+    icon: ShieldCheckIcon,
   },
 ]
 

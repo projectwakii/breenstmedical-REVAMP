@@ -6,7 +6,16 @@
 
       </div>
       <div class="mt-8 md:mt-0 md:order-1">
-        <p class="text-center text-base text-gray-400">&copy; 2022 Website digitally crafted by Dr David Liu. All rights reserved.</p>
+        <p class="text-center text-base text-gray-400">
+          <RouterLink
+            to="/privacy-policy"
+            class="text-gray-300 underline decoration-gray-500 underline-offset-2 hover:text-white"
+          >
+            Privacy policy
+          </RouterLink>
+          <span class="mx-2 text-gray-600" aria-hidden="true">·</span>
+          &copy; 2022 Website digitally crafted by Dr David Liu. All rights reserved.
+        </p>
       </div>
     </div>
   </footer>
