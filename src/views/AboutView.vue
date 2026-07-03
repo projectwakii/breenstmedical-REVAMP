@@ -79,15 +79,6 @@ const people = [
   },
 
   {
-    name: 'Dr Omar Sali',
-    role: 'General Practitioner (GP)',
-    imageUrl:
-      '/img/omar.jpg',
-    bio: 'I am originally from the Philippines, where I obtained my nursing degree in 2008 and then completed my medical degree in 2012. I have worked as a doctor at The Canberra Hospital, Gosford Hospital, Wyong Hospital and Woy Woy Hospital, also in the Central Coast. I’ve also worked in general practice in Wauchope and Tamworth in General Practice. My area of interests includes Chronic Disease Management, Preventive Medicine, Men’s Health and Dermatology, although my scope of practice is not limited to these. I am more than happy to see paediatric patients or even those presenting with issues related to Mental Health and Women’s Health.',
-    twitterUrl: '#',
-    linkedinUrl: '#',
-  },
-  {
     name: 'Dr. Mina Kouhzad',
     role: 'General Practitioner (GP)',
     imageUrl:
