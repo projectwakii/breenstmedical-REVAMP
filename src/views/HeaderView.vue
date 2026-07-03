@@ -1,20 +1,5 @@
 <!-- This example requires Tailwind CSS v2.0+ -->
 <template>
-  <div class="relative bg-red-700">
-    <div class="max-w-7xl mx-auto px-3 py-3 sm:px-6 lg:px-8">
-      <div class="sm:text-center">
-        <p class="text-sm font-bold text-white sm:text-base">
-          <RouterLink
-            to="/security-notice"
-            class="inline-flex items-center underline decoration-red-200 underline-offset-2 transition hover:text-red-100 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-red-700"
-          >
-            IMPORTANT - Do Not Click Emails Named 'Review &amp; Acknowledge Medical Form' - Read More...
-          </RouterLink>
-        </p>
-      </div>
-    </div>
-  </div>
-
   <div class="relative bg-indigo-600">
     <div class="max-w-7xl mx-auto py-3 px-3 sm:px-6 lg:px-8">
       <div class="pr-16 sm:text-center sm:px-16">

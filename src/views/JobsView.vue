@@ -4,7 +4,7 @@ import { MailIcon } from '@heroicons/vue/solid'
 
 function email() {
   // update component state
-  window.location.href = "mailto:breenstmedical@gmail.com"
+  window.location.href = "mailto:admin@breenstmedical.com.au"
 }
 
 </script>

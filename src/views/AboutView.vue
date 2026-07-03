@@ -105,6 +105,15 @@ const people = [
     twitterUrl: '#',
     linkedinUrl: '#',
   },
+  {
+    name: 'Dr Sethunge Manoj Sethunge',
+    role: 'General Practitioner (GP)',
+    imageUrl:
+      '/img/drsethunge.jpg',
+    bio: 'Dr Sethunge is a dedicated General Practitioner committed to providing comprehensive, patient-centered care. He enjoys all areas of general practice, with special interests in preventative medicine, chronic disease management, and family health. Dr Sethunge takes the time to listen to his patients and works collaboratively with them to achieve the best health outcomes.',
+    twitterUrl: '#',
+    linkedinUrl: '#',
+  },
   // More people...
 ]
 
