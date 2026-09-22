@@ -26,15 +26,15 @@
           <ul role="list" class="space-y-12 sm:grid sm:grid-cols-2 sm:gap-x-6 sm:gap-y-12 sm:space-y-0 lg:gap-x-8">
             <li v-for="person in people" :key="person.name">
               <div class="space-y-4">
-                <div class="aspect-w-3 aspect-h-5">
+                <div v-if="person.imageUrl" class="aspect-w-3 aspect-h-5">
                   <img class="object-cover shadow-lg rounded-lg" :src="person.imageUrl" alt="" />
                 </div>
                 <div class="text-lg leading-6 font-medium space-y-1">
                   <h3>{{ person.name }}</h3>
                   <p class="text-indigo-600">{{ person.role }}</p>
                 </div>
-                <div class="text-lg">
-                  <p class="text-gray-500">{{ person.bio }}</p>
+                <div class="text-lg space-y-4">
+                  <p v-for="(paragraph, index) in person.bio.split('\n\n')" :key="index" class="text-gray-500">{{ paragraph }}</p>
                 </div>
 
               </div>
@@ -49,7 +49,7 @@
 <script>
 const people = [
   {
-    name: 'Dr Harimo Thaker (Harry)',
+    name: 'Dr Hariom Thaker (Harry)',
     role: 'General Practitioner (GP)',
     imageUrl:
       '/img/drhariom.JPG',
@@ -104,6 +104,20 @@ const people = [
     bio: 'Dr Sethunge is a dedicated General Practitioner committed to providing comprehensive, patient-centered care. He enjoys all areas of general practice, with special interests in preventative medicine, chronic disease management, and family health. Dr Sethunge takes the time to listen to his patients and works collaboratively with them to achieve the best health outcomes.',
     twitterUrl: '#',
     linkedinUrl: '#',
+  },
+  {
+    name: 'Dr. Shaheen',
+    role: 'General Practitioner (GP)',
+    imageUrl: '/img/drshaheen.png',
+    bio: `Dr. Shaheen obtained her MBBS in 2008 and has built a people-focused medical career shaped by diverse clinical experiences across Malaysia, Borneo, Australia, and clinical observerships in the United Kingdom. Her international background has helped her develop into an adaptable and culturally attuned clinician who connects easily with patients from all walks of life.
+
+She has special interests in ENT, chronic disease management, paediatrics, mental health, and preventive medicine. Passionate about helping patients feel heard, understood, and empowered, she is undertaking further training with the Royal Australian College of General Practitioners (RACGP), reflecting her commitment to comprehensive, patient-centred and community-based care.
+
+Known for her warm and approachable manner, Dr. Shaheen believes that good healthcare starts with good conversations. She takes the time to listen, explain, and work collaboratively with her patients to support their health and wellbeing. She places particular emphasis on prevention, early intervention, and caring for both physical and mental health.
+
+Fluent in English, Malay, and Tamil, Dr. Shaheen enjoys bridging language and cultural gaps to make healthcare more accessible, personal, and less intimidating for her patients.
+
+Outside of medicine, Dr. Shaheen enjoys spending quality time with her husband and their three cats. She has a love for travelling and discovering new places, as well as cooking and exploring different cuisines. She also enjoys expressing her creative side through art and music. These interests provide her with a balance between her professional life and the things she values most personally—creativity, connection, family, and lifelong learning.`,
   },
   // More people...
 ]
