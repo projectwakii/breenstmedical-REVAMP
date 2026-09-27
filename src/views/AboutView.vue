@@ -62,22 +62,23 @@ Fluent in English, Malay, and Tamil, Dr. Shaheen enjoys bridging language and cu
 
 Outside of medicine, Dr. Shaheen enjoys spending quality time with her husband and their three cats. She has a love for travelling and discovering new places, as well as cooking and exploring different cuisines. She also enjoys expressing her creative side through art and music. These interests provide her with a balance between her professional life and the things she values most personally—creativity, connection, family, and lifelong learning.`,
   },
+
   {
-    name: 'Dr Hariom Thaker (Harry)',
+    name: 'Dr Sethunge Manoj Sethunge',
     role: 'General Practitioner (GP)',
     imageUrl:
-      '/img/drhariom.JPG',
-    bio: 'Dr Hariom Thaker (Dr Harry) is a full-time General Practitioner who relocated from Melton to Bendigo. He enjoys all areas of general practice, and his special interests are Preventative medicine & Weight management, Chronic disease management, Children\'s Health, Men\'s Health and Sexual Health. Dr Harry is multi-lingual and is fluent in Gujarati and Hindi.',
+      '/img/drsethunge.jpg',
+    bio: 'Dr Sethunge is a dedicated General Practitioner committed to providing comprehensive, patient-centered care. He enjoys all areas of general practice, with special interests in preventative medicine, chronic disease management, and family health. Dr Sethunge takes the time to listen to his patients and works collaboratively with them to achieve the best health outcomes.',
     twitterUrl: '#',
     linkedinUrl: '#',
   },
 
-{
-    name: 'Dr. Piraneetha Hall',
+  {
+    name: 'Dr Muhammad Ilyas Shazi',
     role: 'General Practitioner (GP)',
     imageUrl:
-      '/img/drpiraneetha.jpg',
-    bio: 'Dr Piranee Hall grew up in Sydney before completing her medical training at the University ofNewcastle in NSW. Since the completion of her training she has worked at The Austin Hospital, The Royal Children\'s Hospital in Melbourne as well as at the Royal Darwin Hospital in the Northern Territory. Her GP training was completed in Brisbane, Queensland becoming a fellow of the Royal Australian College of General Practitioners. Dr Hall has an interest in paediatrics and women\'s health, having completed her Diploma of Obstetrics and Gynaecology. Men\'s health has become an area she is familiar with through the work of her husband, Mr Rohan Hall, who is a local Urological surgeon. When not at work, Piranee is kept busy looking after her two young children.',
+      '/img/drshazi.jpg',
+    bio: 'Dr Shazi is an experienced GP with over 22 years of international practice, including 8 years in Pakistan and 14 years in Saudi Arabia. He holds MRCGP INT (UK) and MCPS (Family Medicine) qualifications. His special interests include chronic disease management, geriatrics, mental health, and paediatrics, with a keen interest in exploring all areas of general practice.\n\nDr Shazi is fluent in multiple languages including English, Urdu, Hindi, Punjabi and Arabic(Saudi).',
     twitterUrl: '#',
     linkedinUrl: '#',
   },
@@ -101,24 +102,17 @@ Outside of medicine, Dr. Shaheen enjoys spending quality time with her husband a
     twitterUrl: '#',
     linkedinUrl: '#',
   },
+
   {
-    name: 'Dr Muhammad Ilyas Shazi',
+    name: 'Dr Hariom Thaker (Harry)',
     role: 'General Practitioner (GP)',
     imageUrl:
-      '/img/drshazi.jpg',
-    bio: 'Dr Shazi is an experienced GP with over 22 years of international practice, including 8 years in Pakistan and 14 years in Saudi Arabia. He holds MRCGP INT (UK) and MCPS (Family Medicine) qualifications. His special interests include chronic disease management, geriatrics, mental health, and paediatrics, with a keen interest in exploring all areas of general practice.\n\nDr Shazi is fluent in multiple languages including English, Urdu, Hindi, Punjabi and Arabic(Saudi).',
+      '/img/drhariom.JPG',
+    bio: 'Dr Hariom Thaker (Dr Harry) is a full-time General Practitioner who relocated from Melton to Bendigo. He enjoys all areas of general practice, and his special interests are Preventative medicine & Weight management, Chronic disease management, Children\'s Health, Men\'s Health and Sexual Health. Dr Harry is multi-lingual and is fluent in Gujarati and Hindi.',
     twitterUrl: '#',
     linkedinUrl: '#',
   },
-  {
-    name: 'Dr Sethunge Manoj Sethunge',
-    role: 'General Practitioner (GP)',
-    imageUrl:
-      '/img/drsethunge.jpg',
-    bio: 'Dr Sethunge is a dedicated General Practitioner committed to providing comprehensive, patient-centered care. He enjoys all areas of general practice, with special interests in preventative medicine, chronic disease management, and family health. Dr Sethunge takes the time to listen to his patients and works collaboratively with them to achieve the best health outcomes.',
-    twitterUrl: '#',
-    linkedinUrl: '#',
-  },
+
   // More people...
 ]
 
