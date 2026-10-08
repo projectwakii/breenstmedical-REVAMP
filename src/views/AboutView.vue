@@ -49,10 +49,10 @@
 <script>
 const people = [
   {
-    name: 'Dr. Shaheen',
+    name: 'Dr. Shaheen Ishak',
     role: 'General Practitioner (GP)',
     imageUrl: '/img/drshaheen.png',
-    bio: `Dr. Shaheen obtained her MBBS in 2008 and has built a people-focused medical career shaped by diverse clinical experiences across Malaysia, Borneo, Australia, and clinical observerships in the United Kingdom. She previously worked at GP at Anderson. Her international background has helped her develop into an adaptable and culturally attuned clinician who connects easily with patients from all walks of life.
+    bio: `Dr. Shaheen Ishak obtained her MBBS in 2008 and has built a people-focused medical career shaped by diverse clinical experiences across Malaysia, Borneo, Australia, and clinical observerships in the United Kingdom. She previously worked at GP at Anderson. Her international background has helped her develop into an adaptable and culturally attuned clinician who connects easily with patients from all walks of life.
 
 She has special interests in ENT, chronic disease management, paediatrics, mental health, and preventive medicine. Passionate about helping patients feel heard, understood, and empowered, she is undertaking further training with the Royal Australian College of General Practitioners (RACGP), reflecting her commitment to comprehensive, patient-centred and community-based care.
 
